@@ -1,4 +1,4 @@
-# How to calibrate FT-5 with bltouch
+# How to calibrate FT-5 3D Printer with BLTouch Probe
 
 1. Move nozzle to center, level platform using threaded rods. Ensure equal distance from the two railed T-slots to the platform below using a caliber.
 2. [Manually level bed using the six thumb screws on the bottom of the platform. Move nozzle to each thumb screw position in a circular pattern at least twice.](https://youtu.be/0tt3ojJ9mMY)
